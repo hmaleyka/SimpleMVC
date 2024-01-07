@@ -1,0 +1,15 @@
+C:\Users\II novbe\source\repos\SimpleMVC.App\Simple.DAL\bin\Debug\net6.0\Simple.DAL.deps.json
+C:\Users\II novbe\source\repos\SimpleMVC.App\Simple.DAL\bin\Debug\net6.0\Simple.DAL.dll
+C:\Users\II novbe\source\repos\SimpleMVC.App\Simple.DAL\bin\Debug\net6.0\Simple.DAL.pdb
+C:\Users\II novbe\source\repos\SimpleMVC.App\Simple.DAL\bin\Debug\net6.0\Simple.Core.dll
+C:\Users\II novbe\source\repos\SimpleMVC.App\Simple.DAL\bin\Debug\net6.0\Simple.Core.pdb
+C:\Users\II novbe\source\repos\SimpleMVC.App\Simple.DAL\obj\Debug\net6.0\Simple.DAL.csproj.AssemblyReference.cache
+C:\Users\II novbe\source\repos\SimpleMVC.App\Simple.DAL\obj\Debug\net6.0\Simple.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\source\repos\SimpleMVC.App\Simple.DAL\obj\Debug\net6.0\Simple.DAL.AssemblyInfoInputs.cache
+C:\Users\II novbe\source\repos\SimpleMVC.App\Simple.DAL\obj\Debug\net6.0\Simple.DAL.AssemblyInfo.cs
+C:\Users\II novbe\source\repos\SimpleMVC.App\Simple.DAL\obj\Debug\net6.0\Simple.DAL.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\source\repos\SimpleMVC.App\Simple.DAL\obj\Debug\net6.0\Simple.DAL.csproj.CopyComplete
+C:\Users\II novbe\source\repos\SimpleMVC.App\Simple.DAL\obj\Debug\net6.0\Simple.DAL.dll
+C:\Users\II novbe\source\repos\SimpleMVC.App\Simple.DAL\obj\Debug\net6.0\refint\Simple.DAL.dll
+C:\Users\II novbe\source\repos\SimpleMVC.App\Simple.DAL\obj\Debug\net6.0\Simple.DAL.pdb
+C:\Users\II novbe\source\repos\SimpleMVC.App\Simple.DAL\obj\Debug\net6.0\ref\Simple.DAL.dll
